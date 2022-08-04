@@ -1,5 +1,5 @@
 # Dogar Bot
-A discord bot i made using DiscordJs as a learning experience plus.
+A discord bot i made using DiscordJs as a learning experience.
 
 Bot Commands: /help /beep /ping /dogar
 
