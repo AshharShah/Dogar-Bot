@@ -4,7 +4,7 @@ const { AttachmentBuilder } = require('discord.js');
 const exampleEmbed = {
 	title: 'Signature Spam Bandh Karo',
 	image: {
-		url: 'https://thumbs.dreamstime.com/z/crying-asian-baby-full-body-hungry-boy-sitting-white-background-34338063.jpg',
+		url: 'https://i.imgur.com/fX7s2QU.jpg',
 	},
 };
 
